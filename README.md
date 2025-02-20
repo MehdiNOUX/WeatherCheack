@@ -18,7 +18,7 @@ WeatherCheck is a simple weather application 🌍 that allows users to search fo
 
 1. Clone the repository:  
    `bash
-   git clone https://github.com/MehdiNOUX/WeatherCheck.git
+   git clone https://github.com/theMNOX/WeatherCheck.git
 
    ---
    ## Made with ❤️ by MehdiNOUX
